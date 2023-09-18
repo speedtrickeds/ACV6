@@ -1,0 +1,41 @@
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+    local Window = OrionLib:MakeWindow({Name = "Title of the library", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
+
+    local cookie = Window:MakeTab({
+        Name = "Cookie Fucvker",
+        Icon = "rbxassetid://4483345998",
+        PremiumOnly = false
+    })
+
+    cookie:AddButton({
+        Name = "bypass ban/bad achivement",
+        Callback = function()
+          end    
+    })
+
+    cookie:AddButton({
+        Name = "force lucky cookie spawn (spammable button)",
+        Callback = function()
+            -- var newShimmer=new Game.shimmer('golden');newShimmer.force='multiply cookies'
+          end    
+    })
+
+    cookie:AddButton({
+        Name = "infinite all",
+        Callback = function()
+          end    
+    })
+    
+    cookie:AddToggle({
+        Name = "Auto farm",
+        Default = false,
+        Callback = function(Value)
+        end    
+    })
+
+cookie:AddToggle({
+        Name = "Auto buy all (only able to buy items)",
+        Default = false,
+        Callback = function(Value)
+        end    
+    })
