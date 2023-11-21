@@ -5,7 +5,7 @@ Anti-Cookie V6 is a cheat for Cookie Clicker can destroy your fun, literally. an
 
 # ℹ️ Dowload
 
-Click in the run file and download, then copy the code of txt file and deposit in [code injetor extension](https://nohello.net/en/).
+Click in the run file and download, then copy the code of txt file and deposit in [code injetor extension](https://chromewebstore.google.com/detail/code-injector/edkcmfocepnifkbnbkmlcmegedeikdeb).
 
 # 🔥 Enjoy the cheat!!
 
