@@ -11,6 +11,7 @@ Click in the run file and download, then copy the code of txt file and deposit i
 
 **Changelog V6:**
 
+- Added TeXipon (bypass V8 and impossible patch)
 - Added new auto all (v4)
 - Added byfron v2 bypass (v1.1b)
 - Added hyperion&byfron v2 bypass (v2)
